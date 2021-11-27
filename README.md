@@ -11,4 +11,8 @@
 
 [MOBILES IN RANGE OF 40,000-50,000](https://pramitjana.github.io/40k---50k)
 
-[]()
+
+    width: 298px;
+            border: 4px solid rgb(64, 6, 119);
+            background-color: rgb(231, 230, 241);
+            margin: 6px;
