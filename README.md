@@ -12,7 +12,5 @@
 [MOBILES IN RANGE OF 40,000-50,000](https://pramitjana.github.io/40k---50k)
 
 
-    width: 298px;
-            border: 4px solid rgb(64, 6, 119);
-            background-color: rgb(231, 230, 241);
-            margin: 6px;
+    THANK YOU FOR VISITING OUR WEBSITE.![ThankYouThanksGIF](https://user-images.githubusercontent.com/94538720/143682514-8dc54b87-8f6c-4fab-8b8f-32ee25d8b640.gif)
+
