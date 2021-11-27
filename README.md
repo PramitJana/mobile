@@ -1,1 +1,169 @@
 # mobileshop.com
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOBILE SHPO.COM</title>
+    <style>
+        body {
+            font-family: 'Dancing Script', cursive;
+
+        }
+
+        .wel {
+            height: 1100px;
+            width: 1000px;
+            margin: 2px solid red;
+        }
+        #pra{
+            height: 64px;
+            width: 298px;
+            border: 4px solid rgb(64, 6, 119);
+            background-color: rgb(231, 230, 241);
+            margin: 6px;
+            
+        }
+        
+        #pra2{
+            height: 65px;
+            width: 298px;
+            border: 4px solid rgb(64, 6, 119);
+            background-color: rgb(231, 230, 241);
+            margin: 6px;
+        }
+        #pra3{
+            height: 65px;
+            width: 298px;
+            border: 4px solid rgb(64, 6, 119);
+            background-color: rgb(231, 230, 241);
+            margin: 6px;
+
+        }
+        #pra4{
+            height: 65px;
+            width: 298px;
+            border: 4px solid rgb(64, 6, 119);
+            background-color: rgb(231, 230, 241);
+            margin: 6px;
+
+        }
+        #pra5{
+            height: 65px;
+            width: 298px;
+            border: 4px solid rgb(64, 6, 119);
+            background-color: rgb(231, 230, 241);
+            margin: 6px;
+
+        }
+        #pra6{
+            height: 65px;
+            width: 298px;
+            border: 4px solid rgb(64, 6, 119);
+            background-color: rgb(231, 230, 241);
+            margin: 6px;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wel">
+        <h1>        
+            HELLO SIR/MADAM,
+            HERE YOU CAN FIND BEST MOBILE FOR YOU.
+        </h1>
+
+            <br>
+            <br>
+            <br>
+
+            <h4>
+
+            <div id="pra">
+                <a href=" https://pramitjana.github.io/under-10k/"target="_blank">MOBILES UNDER 10,000/</a>
+            </div>
+
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <div id="pra2">
+                <a href="https://pramitjana.github.io/10k---15k/"target="_blank"> MOBILES IN RANGE OF 10,000-15,000 </a>
+                <br>
+                <br>
+                
+
+            </div>
+
+
+
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <div id="pra3">
+                <a href=" https://pramitjana.github.io/15k---20k/"target="_blank"> MOBILES IN RANGE OF 15,000-20,000 </a>
+                <br>
+                <br>
+                
+
+
+            </div>
+
+
+
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <div id="pra4">
+                <a href="https://pramitjana.github.io/20k---30k/"target="_blank">MOBILES IN RANGE OF 20,000-30,000</a>
+                <br>
+                <br>
+                
+
+
+            </div>
+
+
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <div id="pra5">
+                <a href=" https://pramitjana.github.io/30k---40k/"target="_blank">MOBILES IN RANGE OF 30,000-40,000</a>
+                <br>
+                <br>
+                
+
+
+            </div>
+
+
+
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <div id="pra6">
+                <a href=" https://pramitjana.github.io/40k---50k/"target="_blank">MOBILES IN RANGE OF 40,000-50,000</a>
+                <br>
+                <br>
+                 
+        </h4>
+
+    </div>
+    </div>
+    
+    
+</body>
+
+</html>
